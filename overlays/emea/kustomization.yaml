@@ -6,7 +6,7 @@ bases:
 nameSuffix: -emea
 
 images:
-  - name: mysql
+  - name: cluster-mysql
   - newName: registry.redhat.io/rhel8/mysql-80
   - newTag: 1-156
 
